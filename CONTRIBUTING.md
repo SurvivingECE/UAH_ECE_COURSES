@@ -3,6 +3,7 @@ Feel free to help out with our project by creating a [pull request](https://gith
 
 ## Guidelines
 * All files committed must be original or properly credited.
+* Within each course, files must be grouped by author.
 * Try to follow the general style of the course and/or project.
 * Please explain in detail what you changed and why it would be beneficial.
 * Large pull requests with multiple new files may take longer to be merged.
