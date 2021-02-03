@@ -25,6 +25,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 ## Checklist:
 
 - [ ] My code follows the style guidelines of this project
+- [ ] My code includes a header containing the following: description, author(s), date
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
@@ -33,4 +34,3 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
-
